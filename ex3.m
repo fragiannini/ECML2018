@@ -1,4 +1,4 @@
-% This script produces the solution of Example 2 in the paper. We make use 
+% This script produces the solution of Example 3 in the paper. We make use 
 % of the MATLAB function 'quadprog' that is specific for quadratic 
 % programming problems and provides as additional output a vector of 
 % Lagrange multipliers satisfying the KKT-conditions for the given solution
